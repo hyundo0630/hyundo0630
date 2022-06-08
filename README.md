@@ -1,12 +1,2 @@
-# <div align="center"> Hellow </div>
-<img src="https://github.com/hyundo0630/hyundo0630/blob/main/%ED%94%BC%EC%B9%B4%EC%B8%84.png">
-- 👋 Hi, I’m @hyundo0630
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hyundo0630/hyundo0630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# <div align="center"> Welcome </div>
+<img src="https://github.com/hyundo0630/hyundo0630/blob/main/%ED%94%BC%EC%B9%B4%EC%B8%84.png" width="9000" height="450">
