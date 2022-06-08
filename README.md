@@ -1,5 +1,5 @@
 # <div align="center"> Hellow </div>
-![피카츄](https://www.insight.co.kr/news/153602)
+<img src="https://github.com/hyundo0630/hyundo0630/blob/main/%ED%94%BC%EC%B9%B4%EC%B8%84.png">
 - 👋 Hi, I’m @hyundo0630
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
