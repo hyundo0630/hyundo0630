@@ -1,2 +1,2 @@
-# <div align="center"> Welcome </div>
-<img src="https://github.com/hyundo0630/hyundo0630/blob/main/%ED%94%BC%EC%B9%B4%EC%B8%84.png" width="9000" height="450">
+# <div align="center"> Welcome  </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Welcome&fontSize=90" /> </div>
