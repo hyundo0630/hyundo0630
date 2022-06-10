@@ -2,7 +2,7 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Welcome&fontSize=90" /></div>
  <div align="center" style="font-size=10px;"> :hand: 안녕하세요 :hand: </div>
 <div align="center"> 개발 언어에 관심이 생겨 공부를 시작한 초보자 입니다. :sweat_drops::sweat_drops:</div>
-## <div align="center"> 언어는 Node.Js를 공부 중에 있으며, </div>
+<div align="center"> 언어는 Node.Js를 공부 중에 있으며, </div>
 <div align="center"> :smile: Node.Js 언어를 통해 저만의 웹 만들기를 첫 번째 목표:fire:로 계획하고 있습니다. :smile:</div>
 <br>
 <div align="center"> 현재는 클라우드 업체에서 근무를 하고 있으며, 주 된 업무는 서버 운영·관리 입니다. </div>
