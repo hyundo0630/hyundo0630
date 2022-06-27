@@ -28,4 +28,18 @@
  
  💻 Teck Stack 💻<br>
  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+ <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white">
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+ <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
+ <img src="https://img.shields.io/badge/KT%20Cloud-FF2D20?style=flat&logo=KT&logoColor=white">
+ <img src="https://img.shields.io/badge/NCP-FFE01B?style=flat&logo=NCP&logoColor=white">
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+ 
+ 📖 Goals Stack 📖<br>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c%2B%2B&logoColor=white">
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+ 
+ 
 </div>
