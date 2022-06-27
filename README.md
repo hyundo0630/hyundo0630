@@ -44,4 +44,14 @@
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
  
+🔥 Useage 🔥<br>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyundo0630)](https://github.com/hyundo0630/github-readme-stats)
+
+🌟Stats🌟<br> 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyundo0630&show_icons=true&theme=radical)](https://github.com/hyundo0630/github-readme-stats)
+
 </div>
+
+
+
