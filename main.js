@@ -5,10 +5,9 @@ var url = require('url');
 var app = http.createServer(function(request,response){
     var _url = request.url;
     var queryData = url.parse(_url,true).query;
-    title = queryData.id;
+    var title = queryData.id;
     if(request.url == '/'){
-      title = 'Welcome'
-      _url = '/index.html';
+    title = 'Welcome';
     }
     if(request.url == '/favicon.ico'){
         response.writeHead(404);
@@ -22,7 +21,7 @@ var app = http.createServer(function(request,response){
       <meta charset="utf-8">
     </head>
     <body>
-      <h1><a href="index.html">WEB</a></h1>
+      <h1><a href="/">WEB</a></h1>
       <ol>
         <li><a href="/?id=HTML">HTML</a></li>
         <li><a href="/?id=CSS">CSS</a></li>
