@@ -54,4 +54,8 @@
 
 </div>
 
-![Metrics](https://metrics.lecoq.io/hyundo0630?template=terminal&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul&config.display=large&config.padding=0%2C%208%20%2B%200%25)
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/hyundo0630?template=terminal&languages=1&isocalendar=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=31&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FSeoul&config.padding=0%2C%200%20%2B%200%25)
+
+</div>
